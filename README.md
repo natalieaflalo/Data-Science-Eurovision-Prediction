@@ -3,8 +3,8 @@
 Eurovision data analyzation through the years. 
 ### Acquisition:
 Obtaining the data using Crawling and Selenium from:
-1. Wikipedia
-2. eurovision.tv/events
+   - Wikipedia
+   - [eurovision.tv/events](https://eurovision.tv/events)
 ### Data Handling:
 1. Outliers
 2. Cleaning values from unwanted characters
@@ -13,8 +13,8 @@ Obtaining the data using Crawling and Selenium from:
 ### Visualization:
 Explaining the data through graphs
 ### Machine Learning:
-Logistic regression
-Linear regression
+   - Logistic regression
+   - Linear regression
 ### Notes:
 1. In order to run selenium you must download chrome driver from this website: https://sites.google.com/a/chromium.org/chromedriver/
 2. Save the driver in a file named "temp" in your C driver.
